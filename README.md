@@ -2,9 +2,6 @@
 
 A lightweight, interactive Command Line Interface (CLI) game built entirely in C. The program utilizes standard libraries for random number generation, input validation, and loop control to create a fun, logic-based user experience.
 
-## 🌐 Live Web Demo
-Don't want to download a compiler? **[Click here to play the game live in your browser!](YOUR_ONECOMPILER_LINK)**
-
 ## 📸 Gameplay Preview
 *(Upload your screenshot.png to your repository, and GitHub will display it here!)*
 ![Gameplay Screenshot](screenshot.png)
