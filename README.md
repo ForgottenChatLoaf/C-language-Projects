@@ -4,7 +4,8 @@ A lightweight, interactive Command Line Interface (CLI) game built entirely in C
 
 ## 📸 Gameplay Preview
 *(Upload your screenshot.png to your repository, and GitHub will display it here!)*
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](<img width="1710" height="758" alt="proof" src="https://github.com/user-attachments/assets/4b79c146-219f-4df7-87e2-33a104f23ff2" />)
+
 
 ## 💻 How to Run Locally (Using Dev-C++)
 
