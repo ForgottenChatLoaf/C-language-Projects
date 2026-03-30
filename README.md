@@ -1,12 +1,8 @@
-# 🎮 Terminal Number Guessing Game
-
-A lightweight, interactive Command Line Interface (CLI) game built entirely in C. The program utilizes standard libraries for random number generation, input validation, and loop control to create a fun, logic-based user experience.
-
-## 📸 Gameplay Preview
+## Gameplay Preview
 proof is in the png file u can view it
 
 
-## 💻 How to Run Locally (Using Dev-C++)
+## How to Run Locally (Using Dev-C++)
 
 If you want to compile and run this code on your own machine using Dev-C++, follow these steps:
 
@@ -18,6 +14,6 @@ If you want to compile and run this code on your own machine using Dev-C++, foll
 
 5. then when playing please register first heheeheheheheehe then login dont worry tho this is a one time thing 
 
-## 🛠️ Built With
+## Built With
 * **Language:** C 
 * **Libraries:** `<stdio.h>`, `<stdlib.h>`, `<time.h>`
